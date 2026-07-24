@@ -1,0 +1,22 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="87" y1="63" x2="1113" y2="567" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617" />
+      <stop offset="0.45" stop-color="#0F172A" />
+      <stop offset="1" stop-color="#020617" />
+    </linearGradient>
+    <linearGradient id="accent" x1="165" y1="120" x2="1018" y2="528" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA" />
+      <stop offset="0.5" stop-color="#A855F7" />
+      <stop offset="1" stop-color="#22D3EE" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="48" fill="url(#bg)"/>
+  <circle cx="240" cy="160" r="180" fill="#60A5FA" opacity="0.14"/>
+  <circle cx="980" cy="470" r="220" fill="#A855F7" opacity="0.12"/>
+  <rect x="72" y="72" width="1056" height="486" rx="36" stroke="url(#accent)" stroke-opacity="0.22"/>
+  <text x="96" y="170" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="4">AYUS DUBEY</text>
+  <text x="96" y="268" fill="#FFFFFF" font-family="Poppins, Inter, Arial, sans-serif" font-size="80" font-weight="800">Software Engineer</text>
+  <text x="96" y="346" fill="#A5B4FC" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="600">AI Engineer • Full Stack Developer • ML Enthusiast</text>
+  <rect x="96" y="404" width="356" height="10" rx="5" fill="url(#accent)"/>
+</svg>

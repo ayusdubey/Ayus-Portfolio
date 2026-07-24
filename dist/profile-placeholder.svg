@@ -1,0 +1,25 @@
+<svg width="960" height="960" viewBox="0 0 960 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="112" y1="88" x2="848" y2="872" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9" />
+      <stop offset="0.5" stop-color="#8B5CF6" />
+      <stop offset="1" stop-color="#14B8A6" />
+    </linearGradient>
+    <linearGradient id="shine" x1="286" y1="208" x2="662" y2="740" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.9" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.1" />
+    </linearGradient>
+  </defs>
+  <rect width="960" height="960" rx="200" fill="#020617"/>
+  <circle cx="480" cy="420" r="260" fill="url(#bg)" opacity="0.25"/>
+  <circle cx="480" cy="420" r="210" fill="url(#shine)" opacity="0.18"/>
+  <circle cx="480" cy="360" r="150" fill="#0F172A" stroke="url(#bg)" stroke-width="12"/>
+  <path d="M354 364C354 294 405 246 480 246C555 246 606 294 606 364C606 441 548 498 480 498C412 498 354 441 354 364Z" fill="url(#shine)" opacity="0.9"/>
+  <path d="M300 746C323 646 388 598 480 598C572 598 637 646 660 746" stroke="url(#bg)" stroke-width="80" stroke-linecap="round"/>
+  <path d="M340 350L410 326" stroke="#E2E8F0" stroke-width="16" stroke-linecap="round"/>
+  <path d="M620 350L550 326" stroke="#E2E8F0" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="430" cy="388" r="16" fill="#E2E8F0"/>
+  <circle cx="530" cy="388" r="16" fill="#E2E8F0"/>
+  <path d="M430 446C450 468 510 468 530 446" stroke="#E2E8F0" stroke-width="14" stroke-linecap="round"/>
+  <text x="480" y="846" text-anchor="middle" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">Ayus Dubey</text>
+</svg>
